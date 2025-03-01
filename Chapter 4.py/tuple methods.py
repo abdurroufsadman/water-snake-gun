@@ -1,0 +1,8 @@
+a=(1,45,342,3424,False,45,"Harry","Shivam")
+print(a)
+no = a. count(45)
+print(no)
+pos = a.index(45)
+print(pos)
+i=a.index(45)
+print(i)
