@@ -1,0 +1,10 @@
+a=1 #a is a integer
+b = 5.22 # b is a floating point number
+c ="harry" # c is a string
+d = False # d is a boolean
+e = None # e is a none type
+_samer=56
+# @samer=56 # this is not allowed
+# 1samer=56 # this is not allowed
+# samer  1=56 # this is not allowed
+# samer@1=56 # this is not allowed
